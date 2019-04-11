@@ -1,0 +1,328 @@
+
+Song Search Log---------------------------------------
+
+Song Name: Enter Sandman
+
+Artist(s): Metallica
+
+Album: Metallica
+
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=f2e56323d5474d09b34a147f75ced998
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Enter Sandman
+
+Artist(s): Metallica
+
+Album: Metallica
+
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=f2e56323d5474d09b34a147f75ced998
+
+-------------------------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Epicenter Festival
+
+Venue Location: Rockingham, NC, United States
+
+Venue Time: 05/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Fillmore New Orleans
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 05/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Fillmore New Orleans
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 05/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sonic Temple Festival (May 17-19)
+
+Venue Location: Columbus, OH, United States
+
+Venue Time: 05/17/2019, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pula Arena
+
+Venue Location: Pula, , Croatia
+
+Venue Time: 06/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pula Arena
+
+Venue Location: Pula, , Croatia
+
+Venue Time: 06/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Southside Festival
+
+Venue Location: Neuhausen Ob Eck, , Germany
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Hurricane Festival
+
+Venue Location: Scheeßel, , Germany
+
+Venue Time: 06/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Faengslet
+
+Venue Location: Horsens, , Denmark
+
+Venue Time: 06/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Koengen Fortress
+
+Venue Location: Bergen, , Norway
+
+Venue Time: 06/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lollapalooza Stockholm (28-29 June)
+
+Venue Location: Stockholm, , Sweden
+
+Venue Time: 06/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sziget Festival
+
+Venue Location: Budapest, , Hungary
+
+Venue Time: 08/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Glasgow Summer Sessions
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 08/17/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Vital Festival
+
+Venue Location: Belfast, , United Kingdom
+
+Venue Time: 08/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: RDS Arena
+
+Venue Location: Dublin, , Ireland
+
+Venue Time: 08/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Leeds Festival
+
+Venue Location: Leeds, , United Kingdom
+
+Venue Time: 08/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Reading Festival
+
+Venue Location: Reading, , United Kingdom
+
+Venue Time: 08/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bourbon and Beyond
+
+Venue Location: Louisville, KY, United States
+
+Venue Time: 09/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pilgrimage Festival
+
+Venue Location: Franklin, TN, United States
+
+Venue Time: 09/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Rock in Rio
+
+Venue Location: Rio De Janeiro, , Brazil
+
+Venue Time: 09/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: El Campin Stadium
+
+Venue Location: Bogotá, , Colombia
+
+Venue Time: 10/01/2019, 3:30 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Estadio Nacional de Costa Rica
+
+Venue Location: San José, , Costa Rica
+
+Venue Time: 10/04/2019, 3:00 PM
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1995
+
+IMDB Rating: 8.4
+
+Rotten Tomatoes: 77%
+
+Country: USA, Ireland
+
+Language: English, French, Latin, Scottish Gaelic, Italian
+
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+
+Year: 1995
+
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1995
+
+IMDB Rating: 8.4
+
+Rotten Tomatoes: 77%
+
+Country: USA, Ireland
+
+Language: English, French, Latin, Scottish Gaelic, Italian
+
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+
+Year: 1995
+
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1995
+
+IMDB Rating: 8.4
+
+Rotten Tomatoes: 77%
+
+Country: USA, Ireland
+
+Language: English, French, Latin, Scottish Gaelic, Italian
+
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+
+Year: 1995
+
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f2e56323d5474d09b34a147f75ced998
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Eruption - 2015 Remaster
+
+Artist(s): Van Halen
+
+Album: Van Halen (Remastered)
+
+Preview Link: https://p.scdn.co/mp3-preview/06af5d61b27cb305d4cfe00175084840f1b641a9?cid=f2e56323d5474d09b34a147f75ced998
+
+-------------------------------------------------------
